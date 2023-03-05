@@ -1,2 +1,3 @@
 # clase_uno
-Este archivo es el ejercicio numero uno de la clase .23.J1.E1.LM.TN-FR_CU-032
+FE DE ERRATA CLASE DOS  - CREANDO UN REPOSITORIO REMOTO CLASE 2 
+Este archivo es el ejercicio numero DOS de la clase .23.J1.E1.LM.TN-FR_CU-032
