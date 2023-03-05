@@ -2,4 +2,8 @@ Esto es una prueba para saber si funciona - Gracias
 
 A esta hora estoy modificando por primera vez - en GitHub 
 
+<<<<<<< HEAD
 Aqui estamos creando el conflicto 
+=======
+Por que quieres crear un conflicto? 
+>>>>>>> 5af43cad4933062a390f3ef339ead7b2705d1249
